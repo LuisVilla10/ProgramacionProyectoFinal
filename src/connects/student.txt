@@ -1,0 +1,5 @@
+18014494,Luis ,08/06/2021,Bases de datos
+12345,Diana,06/06/2021,Programacion
+56789,Gabriel,10/06/2021,Ingles
+1701345,Diana,09/06/2021,Matematicas discretas
+160,Mario,07/062021,Estructura de datos

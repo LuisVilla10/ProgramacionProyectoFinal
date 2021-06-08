@@ -1,0 +1,4 @@
+NRC010,Programacion,10
+NRC020,Ingles,7
+NRC030,Bases de datos,9
+NRC040,Matemticas,8
